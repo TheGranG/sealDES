@@ -1,0 +1,4 @@
+SealDES_Setup.exe filter=lfs diff=lfs merge=lfs -text
+sealDES.exe filter=lfs diff=lfs merge=lfs -text
+ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+ffprobe.exe filter=lfs diff=lfs merge=lfs -text
